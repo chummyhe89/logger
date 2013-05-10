@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 About logger
 ---------------------------------------------------------------------
 This is c++ library use for write log to file
@@ -18,3 +19,9 @@ Support
 Contact
 ---------------------------------------------------------------------
 If you have some problem of logger,you can send email to <imawljiang@gmail.com> <imawljiang at gmail.com>
+=======
+logger
+======
+
+c++ logger
+>>>>>>> e7d3b05a7fe13b63bf3c709c765db3b41acd93ef
